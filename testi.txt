@@ -1,5 +1,4 @@
 Tämä on testitiedosto.
 Tämä on muutos uudessa branchissa.
 Tämä on uusi muutos versioharjoitusta varten.
-Tämä on uusi muutos versioharjoitusta varten2
 
