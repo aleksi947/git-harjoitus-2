@@ -2,5 +2,6 @@ Tämä on testitiedosto.
 Tämä on muutos uudessa branchissa.
 Tämä on uusi muutos versioharjoitusta varten.
 
-Konfliktirivi: alkuperäinen versio.
+Konfliktirivi: MUUTOS conflictB-branchissa.
+
 
